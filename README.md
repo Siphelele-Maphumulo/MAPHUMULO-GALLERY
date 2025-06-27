@@ -2,7 +2,7 @@
 
 A scroll based 3D animation with a page transition effect.
 
-![Image](https://tympanus.net/codrops/wp-content/uploads/2025/05/scroll3dcarousel_featured_final-1536x1152.jpg)
+![Image](https://github.com/Siphelele-Maphumulo/MAPHUMULO-GALLERY/blob/main/Maphumulo-Gallery.jpeg?raw=true)
 
 
 
